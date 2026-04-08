@@ -9,7 +9,7 @@ excalibur is a project that use DarkSword exploit for customize your iPhone, inc
 - Enable JIT(?)
 - Overwrite system file (custom overwrite?)
 - Custom mobilegestalt (for Dynamic island enabler, hidden feature, etc)
-- 
+- Memory finder and editor?
 
 
 # Credit
